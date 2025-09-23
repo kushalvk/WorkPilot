@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="404eb4d8-f181-44b4-a139-a07b064bd629" name="Changes" comment="UPDATE: solving Error in search &amp; filter facility.">
-      <change beforePath="$PROJECT_DIR$/Client/src/Components/Project/Show_All_Projects.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Client/src/Components/Project/Show_All_Projects.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Client/src/Components/Report/Show_all_report.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Client/src/Components/Report/Show_all_report.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,15 +184,7 @@
       <workItem from="1743921863687" duration="1409000" />
       <workItem from="1743985056177" duration="1643000" />
       <workItem from="1743992938879" duration="4422000" />
-      <workItem from="1749997281913" duration="3429000" />
-    </task>
-    <task id="LOCAL-00036" summary="UPDATE: file Access Permition.">
-      <option name="closed" value="true" />
-      <created>1740326429060</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1740326429060</updated>
+      <workItem from="1749997281913" duration="4012000" />
     </task>
     <task id="LOCAL-00037" summary="UPDATE: file Load Permition.">
       <option name="closed" value="true" />
@@ -579,7 +570,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750001782007</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="UPDATE: solving Error in search &amp; filter facility.">
+      <option name="closed" value="true" />
+      <created>1750002008476</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1750002008476</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
